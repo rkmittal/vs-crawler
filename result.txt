@@ -1,0 +1,273 @@
+1) Title: Sony MDR-1RBT; Points: 339 points; Price: $189.99
+2) Title: Sony MDR-X10; Points: 313 points; Price: $112.00
+3) Title: Yamaha Pro 400; Points: 303 points; Price: $149.99
+4) Title: Focal Spirit Classic; Points: 300 points; Price: $399.00
+5) Title: Yamaha Pro 500; Points: 300 points; Price: $377.77
+6) Title: Sony MDR-1R; Points: 299 points; Price: undefined
+-->7) Title: Yamaha Pro 300; Points: 299 points; Price: $93.98
+8) Title: Sony MDR-7520; Points: 297 points; Price: $368.95
+-->9) Title: Sony XBA-2iP; Points: 297 points; Price: $31.00
+10) Title: KEF M500; Points: 295 points; Price: $299.99
+-->11) Title: Sony MDR-X05; Points: 289 points; Price: $63.75
+12) Title: Philips Fidelio L2; Points: 288 points; Price: $265.33
+-->13) Title: Philips SHL5505; Points: 287 points; Price: $44.99
+14) Title: Bowers & Wilkins P5; Points: 287 points; Price: $349.00
+-->15) Title: V-Moda Remix Remote; Points: 286 points; Price: $74.99
+-->16) Title: Sony MDR-XB800; Points: 285 points; Price: $89.49
+17) Title: Bowers & Wilkins P7; Points: 281 points; Price: $349.00
+18) Title: Pioneer HDJ-C70; Points: 282 points; Price: undefined
+19) Title: Philips CitiScape Uptown; Points: 282 points; Price: $378.00
+20) Title: Klipsch R6i; Points: 280 points; Price: undefined
+-->21) Title: Klipsch R6; Points: 280 points; Price: $73.95
+-->22) Title: Philips Fidelio S1; Points: 281 points; Price: $73.48
+-->23) Title: Philips Fidelio M1BT; Points: 281 points; Price: $79.95
+24) Title: V-Moda XS; Points: 281 points; Price: $199.99
+-->25) Title: Philips SHB8000; Points: 280 points; Price: $59.99
+-->26) Title: Able Planet SI1100; Points: 279 points; Price: $89.00
+27) Title: Philips SHE9055; Points: 279 points; Price: undefined
+28) Title: Ultrasone IQ; Points: 279 points; Price: $847.99
+-->29) Title: Sony MDR-ZX300iP; Points: 279 points; Price: $24.99
+30) Title: Shure SRH1540; Points: 278 points; Price: $499.00
+31) Title: Sony XBA-3iP; Points: 276 points; Price: $218.00
+32) Title: Onkyo ES-CTI300; Points: 274 points; Price: $199.00
+-->33) Title: Griffin WoodTones with Control Mic; Points: 275 points; Price: $22.99
+-->34) Title: Sony MDR-XB30EX; Points: 276 points; Price: $33.76
+35) Title: Philips Fidelio L1; Points: 275 points; Price: $270.00
+36) Title: KEF M200; Points: 273 points; Price: $199.99
+-->37) Title: Klipsch Image ONE (II); Points: 273 points; Price: $5.59
+38) Title: V-Moda Crossfade M-100; Points: 273 points; Price: $299.99
+-->39) Title: Sony MDR-XB60EX/GLD; Points: 273 points; Price: $48.93
+40) Title: Beyerdynamic DT 660 Edition; Points: 272 points; Price: $139.00
+-->41) Title: Skullcandy Hesh 2; Points: 273 points; Price: $40.30
+-->42) Title: Klipsch Image S4i Rugged; Points: 270 points; Price: $58.90
+43) Title: AKG K267 Tiesto; Points: 269 points; Price: $342.96
+44) Title: Sony XBA-H3; Points: 269 points; Price: undefined
+45) Title: Onkyo IE-CTI300; Points: 268 points; Price: $128.88
+46) Title: Audio-Technica ATH-PRO700MK2; Points: 270 points; Price: $150.90
+47) Title: Focal Spirit One; Points: 268 points; Price: $162.37
+-->48) Title: Audio-Technica ATH-CKX7iS; Points: 269 points; Price: $76.99
+49) Title: Blue MO-FI; Points: 268 points
+Has active noise canceling / noise reduction; Price: $349.99; NC
+-->50) Title: Klipsch Image A5i Sport; Points: 268 points; Price: $57.99
+-->51) Title: Creative HS-730i; Points: 269 points; Price: $59.99
+52) Title: Beats by Dre Solo HD; Points: 268 points; Price: $169.95
+-->53) Title: Creative WP-350; Points: 269 points; Price: $70.82
+-->54) Title: Klipsch Image S4i (II); Points: 268 points; Price: $47.95
+-->55) Title: Philips O'Neill SHO9561/28; Points: 269 points; Price: $49.99
+-->56) Title: Jays t-JAYS Four; Points: 269 points; Price: $73.67
+-->57) Title: Urbanears Kransen; Points: 268 points; Price: $33.51
+58) Title: Sony MDR-10RNC; Points: 269 points
+Has active noise canceling / noise reduction; Price: $180.00; NC
+59) Title: Sony XBA-3; Points: 268 points; Price: undefined
+-->60) Title: Philips CitiScape Downtown; Points: 268 points; Price: $36.00
+61) Title: Focal Spirit Professional; Points: 266 points; Price: $349.00
+62) Title: Denon AH-D340; Points: 268 points; Price: $148.97
+-->63) Title: Klipsch Image X7i; Points: 266 points; Price: $5.59
+64) Title: Audio-Technica ATH-CKS1000; Points: 265 points; Price: $158.49
+65) Title: Klipsch Image ONE Bluetooth; Points: 266 points; Price: $339.00
+66) Title: Aedle VK-1; Points: 265 points; Price: $499.00
+-->67) Title: Audio-Technica ATH-CKX7; Points: 264 points; Price: $74.99
+68) Title: Sony MDR-10RC; Points: 266 points; Price: $154.80
+69) Title: Logitech UE 4000; Points: 266 points; Price: $279.99
+-->70) Title: Sony MDR-NC13; Points: 266 points
+Has active noise canceling / noise reduction; Price: $38.89; NC
+71) Title: Audio-Technica ATH-M50x; Points: 266 points; Price: $169.00
+72) Title: V-Moda Crossfade LP2 Special Edition; Points: 263 points; Price: undefined
+73) Title: Klipsch X11i; Points: 264 points; Price: $267.49
+74) Title: Sony MDR-10R; Points: 265 points; Price: undefined
+75) Title: Able Planet Clear Harmony Sound SI1000B; Points: 265 points; Price: $119.37
+-->76) Title: Logitech UE 600; Points: 263 points; Price: $47.11
+77) Title: AKG K812; Points: 263 points; Price: $1,479.00
+78) Title: Beyerdynamic DT 1350; Points: 263 points; Price: $271.00
+-->79) Title: M-Audio Studiophile Q40; Points: 264 points; Price: $75.94
+-->80) Title: Audio-Technica ATH-M40x; Points: 264 points; Price: $99.00
+-->81) Title: JLab Audio Bombora; Points: 264 points; Price: $48.49
+82) Title: Shure SRH750DJ; Points: 264 points; Price: $144.99
+83) Title: V-Moda Crossfade LP; Points: 262 points; Price: $127.45
+-->84) Title: Sennheiser MM 70i; Points: 263 points; Price: $69.98
+85) Title: RaidSonic Icy Box IB-EPh01; Points: 262 points; Price: undefined
+-->86) Title: Philips SHL5705; Points: 263 points; Price: $99.80
+-->87) Title: Yurbuds Focus Limited Edition; Points: 261 points
+Has active noise canceling / noise reduction
+Has a noise canceling microphone; Price: $50.00; NC
+-->88) Title: Logitech UE 500; Points: 261 points; Price: $47.11
+89) Title: Klipsch X4i; Points: 261 points; Price: undefined
+90) Title: Ultrasone Edition 12; Points: 262 points; Price: $1,249.00
+91) Title: Audio-Technica ATH-ESW9A; Points: 262 points; Price: $190.00
+92) Title: TDK EB950; Points: 261 points; Price: $129.95
+93) Title: Onkyo ES-HF300; Points: 260 points; Price: $169.99
+-->94) Title: Yurbuds Inspire Limited Edition; Points: 260 points
+Has active noise canceling / noise reduction; Price: $49.85; NC
+95) Title: Ferrari Cavallino G150i; Points: 260 points; Price: undefined
+96) Title: Ferrari Scuderia R100i; Points: 260 points; Price: undefined
+97) Title: Ferrari Scuderia R100; Points: 260 points; Price: $310.00
+-->98) Title: Ferrari Cavallino G150; Points: 260 points; Price: $75.00
+99) Title: Ferrari Cavallino T150; Points: 260 points; Price: undefined
+100) Title: V-Moda True Blood V-80; Points: 260 points; Price: $139.99
+-->101) Title: Pioneer HDJ-500T; Points: 259 points; Price: $89.95
+-->102) Title: Sony MDR-AS400IP/W; Points: 260 points; Price: $36.18
+-->103) Title: Sennheiser MM 70s; Points: 260 points; Price: $74.88
+104) Title: Phiaton Fusion MS 430; Points: 260 points; Price: $143.51
+105) Title: Bowers & Wilkins C5 Series 2; Points: 258 points; Price: $349.00
+-->106) Title: Gemini DJX-07; Points: 259 points; Price: $30.00
+107) Title: V-Moda Crossfade M-80; Points: 258 points; Price: $106.60
+-->108) Title: Polk Audio UltraFit 3000; Points: 258 points; Price: $37.00
+109) Title: Denon AH-NCW500; Points: 258 points
+Has active noise canceling / noise reduction; Price: $120.00; NC
+-->110) Title: Creative HS-930i2; Points: 259 points; Price: $99.99
+111) Title: Audio-Technica ATH-W5000; Points: 259 points; Price: $780.00
+112) Title: AKG K845BT; Points: 257 points; Price: $284.00
+113) Title: Monster DNA On-Ear-Headphone; Points: 258 points; Price: $199.95
+-->114) Title: Jays a-JAYS Four; Points: 257 points; Price: $44.95
+-->115) Title: JVC HA-S650; Points: 258 points; Price: $29.99
+116) Title: Bowers & Wilkins P5 Series 2; Points: 256 points; Price: $349.00
+-->117) Title: RHA MA450i; Points: 255 points; Price: $49.95
+118) Title: Ultrasone Signature Pro; Points: 257 points; Price: $1,299.95
+119) Title: RHA T10i; Points: 255 points; Price: $129.95
+120) Title: Ultrasone PRO 900; Points: 256 points; Price: $499.94
+-->121) Title: V-Moda True Blood O Positive; Points: 256 points; Price: $49.99
+-->122) Title: Sony MDR-XB400; Points: 257 points; Price: $43.99
+123) Title: Sennheiser IE 80; Points: 255 points; Price: $249.99
+124) Title: Razer Adaro DJ; Points: 255 points; Price: $199.99
+125) Title: Sony XBA-BT75; Points: 255 points; Price: $150.79
+126) Title: RHA MA750i; Points: 254 points; Price: $129.95
+127) Title: Sennheiser Momentum; Points: 256 points; Price: $238.95
+128) Title: AKG K550; Points: 254 points; Price: $199.00
+129) Title: AKG Q 701; Points: 255 points; Price: $193.00
+-->130) Title: JVC HA-M750; Points: 255 points; Price: $39.99
+131) Title: Onkyo IE-HF300; Points: 253 points; Price: $119.99
+-->132) Title: Jays a-JAYS One+; Points: 254 points; Price: $39.95
+133) Title: Beats by Dre Studio Wireless; Points: 253 points
+Has active noise canceling / noise reduction; Price: $341.99; NC
+-->134) Title: Ferrari Scuderia S100i; Points: 253 points; Price: $14.18
+135) Title: Shure SE535LTD; Points: 253 points; Price: $449.51
+136) Title: Panasonic RP-HC800; Points: 253 points
+Has active noise canceling / noise reduction; Price: $205.55; NC
+-->137) Title: Ferrari Scuderia S100; Points: 253 points; Price: $45.15
+-->138) Title: Creative EP-3NC; Points: 253 points
+Has active noise canceling / noise reduction; Price: $49.99; NC
+-->139) Title: JBL J88; Points: 251 points
+Has active noise canceling / noise reduction; Price: $79.99; NC
+-->140) Title: Philips ActionFit Earhook; Points: 253 points; Price: $17.98
+141) Title: AKG K702; Points: 252 points; Price: $219.00
+142) Title: Ultrasone PRO 750; Points: 251 points; Price: $344.99
+-->143) Title: Onkyo IE-FC300; Points: 250 points; Price: $89.99
+144) Title: AKG K271 MKII; Points: 250 points; Price: $112.00
+-->145) Title: Sony MDR V6; Points: 252 points; Price: $99.00
+-->146) Title: Creative WP-450; Points: 252 points; Price: $77.99
+147) Title: Stanton Magnetics DJ PRO 3000; Points: 252 points; Price: undefined
+148) Title: AKG K167 Tiesto; Points: 250 points; Price: $105.00
+149) Title: Shure SRH940; Points: 252 points; Price: $249.99
+150) Title: Pioneer HDJ-1500; Points: 251 points; Price: $123.99
+151) Title: Sony XBA-2; Points: 250 points; Price: undefined
+-->152) Title: JVC HA-S900; Points: 251 points; Price: $33.34
+153) Title: Logitech UE 900; Points: 250 points; Price: $352.72
+154) Title: Sony MDR-7550; Points: 251 points; Price: $345.00
+-->155) Title: Skullcandy Aviator; Points: 251 points; Price: $63.00
+156) Title: Pioneer HDJ-2000; Points: 250 points; Price: $216.85
+-->157) Title: Philips SHL5305; Points: 250 points; Price: $36.98
+-->158) Title: Apple In-Ear; Points: 249 points; Price: $58.00
+159) Title: Sennheiser HD 25-1 II; Points: 250 points; Price: $204.95
+160) Title: Phiaton Bridge MS 500; Points: 249 points; Price: $207.50
+-->161) Title: JVC HA-FXC80; Points: 249 points; Price: $12.99
+-->162) Title: AKG K67 Tiesto; Points: 247 points; Price: $93.74
+163) Title: AKG K545; Points: 248 points; Price: $217.00
+164) Title: Philips Fidelio X1; Points: 249 points; Price: $270.00
+165) Title: Audio Technica ATH-ANC27; Points: 246 points
+Has active noise canceling / noise reduction; Price: $122.00; NC
+-->166) Title: Denon DN-HP1000; Points: 247 points; Price: $99.99
+-->167) Title: Bang & Olufsen Beoplay H6; Points: 247 points; Price: $14.08
+168) Title: AKG K 430; Points: 247 points; Price: $136.90
+-->169) Title: Coby CV-790; Points: 248 points; Price: $2.99
+-->170) Title: Polk Nue Voe; Points: 246 points; Price: $99.99
+171) Title: Sony XBA-H2; Points: 247 points; Price: $207.00
+172) Title: Shure SRH840; Points: 248 points; Price: $197.00
+173) Title: Sony XBA-1; Points: 247 points; Price: undefined
+174) Title: Sony MDR 7506; Points: 247 points; Price: undefined
+-->175) Title: Klipsch Image X10i; Points: 246 points; Price: $53.95
+-->176) Title: V-Moda Remix Audio; Points: 246 points; Price: $54.95
+-->177) Title: Denon AH-W200; Points: 246 points; Price: $99.00
+178) Title: Klipsch Reference S4i; Points: 246 points; Price: undefined
+179) Title: AKG K452; Points: 245 points; Price: $119.95
+180) Title: Denon AH-D320BU; Points: 245 points; Price: $359.86
+-->181) Title: Audio-Technica ATH-CKS99i; Points: 246 points; Price: $93.82
+-->182) Title: Sennheiser HD 429s; Points: 247 points; Price: $59.99
+183) Title: Audio-Technica ATH-M50RD; Points: 247 points; Price: $169.00
+184) Title: Ferrari Cavallino T250; Points: 246 points; Price: $227.00
+185) Title: Imation TDK BA 200; Points: 245 points; Price: $237.00
+186) Title: Jaybird BlueBuds X; Points: 245 points; Price: $132.00
+-->187) Title: Jays t-Jays Three; Points: 245 points; Price: $59.99
+-->188) Title: Philips Fidelio M1; Points: 245 points; Price: $79.95
+-->189) Title: Audio-Technica ATH-M35; Points: 245 points; Price: $69.00
+190) Title: Parrot Zik; Points: 244 points
+Has active noise canceling / noise reduction
+Has a noise canceling microphone; Price: $319.95; NC
+191) Title: Sony XBA-4iP; Points: 242 points; Price: $220.00
+-->192) Title: Audio-Technica ATH-M30x; Points: 244 points; Price: $69.00
+193) Title: Sony MDR-1RNC; Points: 244 points
+Has active noise canceling / noise reduction; Price: $180.00; NC
+194) Title: Klipsch Lou Reed X10i Signature Edition; Points: 242 points; Price: undefined
+195) Title: Audio-Technica ATH-ANC25; Points: 241 points
+Has active noise canceling / noise reduction; Price: $124.95; NC
+196) Title: Ultrasone Tio; Points: 242 points; Price: $499.95
+197) Title: Denon AH-C400; Points: 241 points; Price: $127.07
+-->198) Title: Klipsch Image S3; Points: 241 points; Price: $27.99
+-->199) Title: Philips O'Neill THE CONSTRUCT; Points: 242 points; Price: $42.93
+-->200) Title: Sennheiser HD 219s; Points: 242 points; Price: $50.99
+201) Title: Oppo PM-1; Points: 240 points; Price: $1,299.99
+-->202) Title: Creative HN-900; Points: 241 points
+Has active noise canceling / noise reduction
+Has a noise canceling microphone; Price: $64.99; NC
+-->203) Title: Koss PRODJ100; Points: 241 points; Price: $35.01
+-->204) Title: Harman Kardon NI; Points: 240 points; Price: $32.99
+205) Title: Stanton Magnetics DJ PRO 1000 MKIIS; Points: 241 points; Price: undefined
+206) Title: Logitech UE 9000; Points: 240 points
+Has active noise canceling / noise reduction; Price: $279.99; NC
+207) Title: Beyerdynamic DT660; Points: 240 points; Price: $139.00
+208) Title: Beyerdynamic DT 770 PRO; Points: 238 points; Price: $230.46
+209) Title: Audio TechnicaATH Pro500mk2; Points: 240 points; Price: undefined
+-->210) Title: Logitech UE 350; Points: 239 points; Price: $47.11
+-->211) Title: AKG IP2; Points: 238 points; Price: $49.00
+212) Title: Beyerdynamic DT 860 Edition; Points: 238 points; Price: $152.99
+-->213) Title: Koss PRODJ200; Points: 238 points; Price: $69.99
+214) Title: Ultrasone Pyco; Points: 238 points; Price: $199.95
+-->215) Title: Jays a-Jays Three; Points: 238 points; Price: $59.99
+216) Title: Denon AH-D600; Points: 238 points; Price: $359.86
+-->217) Title: Jaybird Freedom Sprint; Points: 238 points; Price: $83.33
+-->218) Title: Skullcandy Cassette; Points: 238 points; Price: $37.50
+219) Title: HiFiMAN RE-600; Points: 238 points; Price: $366.02
+-->220) Title: RHA MA600; Points: 236 points; Price: $79.95
+-->221) Title: Gemini HSR-1000; Points: 238 points; Price: $84.99
+222) Title: Bowers & Wilkins C5; Points: 238 points; Price: $349.00
+-->223) Title: Polk Audio UltraFit 3000a; Points: 237 points; Price: $79.95
+224) Title: RHA MA750; Points: 236 points; Price: $119.95
+-->225) Title: Sony MDR-V55; Points: 238 points; Price: $50.00
+-->226) Title: Bang & Olufsen Beoplay H3; Points: 237 points; Price: $14.08
+227) Title: Audio-Technica ATH-ES10; Points: 238 points; Price: $300.81
+228) Title: Ferrari Cavallino T350; Points: 237 points
+Has active noise canceling / noise reduction; Price: undefined; NC
+-->229) Title: Creative WP-250; Points: 237 points; Price: $29.99
+230) Title: Grado GR10; Points: 237 points; Price: $393.51
+-->231) Title: Beyerdynamic DTX 101 iE; Points: 237 points; Price: $59.99
+-->232) Title: Sennheiser HDR 170; Points: 237 points; Price: $80.99
+-->233) Title: JVC HA-MR77X; Points: 237 points; Price: $78.81
+-->234) Title: JLab Audio Q1M; Points: 236 points; Price: $20.00
+-->235) Title: Philips ActionFit Neckband; Points: 237 points; Price: $28.99
+-->236) Title: Apple In-Ear Headphones; Points: 235 points; Price: $58.00
+237) Title: Stanton Magnetics DJ PRO 2000; Points: 236 points; Price: undefined
+238) Title: Koss QZ900; Points: 235 points
+Has active noise canceling / noise reduction; Price: $216.72; NC
+-->239) Title: Koss Porta Pro KTC; Points: 235 points; Price: $49.00
+-->240) Title: Sony MDR ZX300; Points: 235 points; Price: $23.50
+241) Title: Ferrari Scuderia P200; Points: 234 points; Price: $398.00
+-->242) Title: Sony MDR-ZX600; Points: 235 points; Price: $51.39
+243) Title: Polk Audio UltraFocus 8000; Points: 234 points
+Has active noise canceling / noise reduction; Price: $199.00; NC
+-->244) Title: Philips SHQ3017/28; Points: 235 points; Price: $17.50
+245) Title: Sony MDR-7510; Points: 234 points; Price: undefined
+246) Title: Audio-Technica ATH-AD700X; Points: 234 points; Price: $122.69
+247) Title: Audio Technicaath CKX9; Points: 233 points; Price: undefined
+-->248) Title: V-Moda True Blood Revamp; Points: 234 points; Price: $9.99
+249) Title: Logitech UE 6000; Points: 234 points
+Has active noise canceling / noise reduction; Price: $279.99; NC
+-->250) Title: Yamaha EPH-100; Points: 233 points; Price: $99.00
